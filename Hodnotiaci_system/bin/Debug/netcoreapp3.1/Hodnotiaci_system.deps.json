@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hodnotiaci_system/1.0.0": {
+        "runtime": {
+          "Hodnotiaci_system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hodnotiaci_system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
