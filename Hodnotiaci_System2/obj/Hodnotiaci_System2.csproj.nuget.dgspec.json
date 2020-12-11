@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_system\\Hodnotiaci_system\\Hodnotiaci_system.csproj": {}
+    "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_System2\\Hodnotiaci_System2\\Hodnotiaci_System2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_system\\Hodnotiaci_system\\Hodnotiaci_system.csproj": {
+    "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_System2\\Hodnotiaci_System2\\Hodnotiaci_System2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_system\\Hodnotiaci_system\\Hodnotiaci_system.csproj",
-        "projectName": "Hodnotiaci_system",
-        "projectPath": "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_system\\Hodnotiaci_system\\Hodnotiaci_system.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_System2\\Hodnotiaci_System2\\Hodnotiaci_System2.csproj",
+        "projectName": "Hodnotiaci_System2",
+        "projectPath": "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_System2\\Hodnotiaci_System2\\Hodnotiaci_System2.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_system\\Hodnotiaci_system\\obj\\",
+        "outputPath": "C:\\Users\\Peter\\source\\repos\\Hodnotiaci_System2\\Hodnotiaci_System2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,7 +12,7 @@ namespace NP
 
 
 
-    class Grade
+    class StudentGrade
 
     {
 
@@ -76,7 +76,7 @@ namespace NP
 
             }
 
-            System.Console.Write("\n\nŽiak\tBody\tZnámka\n");
+            System.Console.Write("\n\nŠtudent\tBody\tZnámka\n");
 
 
 
@@ -86,7 +86,7 @@ namespace NP
 
                 if (arrMark[i] > 100)
 
-                    grade = "Error";
+                    grade = "???";
 
                 else if (arrMark[i] == 100)
 

@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Hodnotiaci_system",
+    "\\Hodnotiaci_system\\bin\\Debug",
+    "\\Hodnotiaci_system\\bin\\Release",
+    "\\Hodnotiaci_system\\obj",
+    "\\Hodnotiaci_system\\obj\\Debug"
   ],
+  "SelectedNode": "\\Hodnotiaci_system\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

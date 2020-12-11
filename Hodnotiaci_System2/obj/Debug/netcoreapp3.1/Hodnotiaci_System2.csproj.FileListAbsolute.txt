@@ -1,0 +1,13 @@
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\bin\Debug\netcoreapp3.1\Hodnotiaci_System2.exe
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\bin\Debug\netcoreapp3.1\Hodnotiaci_System2.deps.json
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\bin\Debug\netcoreapp3.1\Hodnotiaci_System2.runtimeconfig.json
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\bin\Debug\netcoreapp3.1\Hodnotiaci_System2.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\bin\Debug\netcoreapp3.1\Hodnotiaci_System2.dll
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\bin\Debug\netcoreapp3.1\Hodnotiaci_System2.pdb
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\obj\Debug\netcoreapp3.1\Hodnotiaci_System2.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\obj\Debug\netcoreapp3.1\Hodnotiaci_System2.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\obj\Debug\netcoreapp3.1\Hodnotiaci_System2.AssemblyInfo.cs
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\obj\Debug\netcoreapp3.1\Hodnotiaci_System2.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\obj\Debug\netcoreapp3.1\Hodnotiaci_System2.dll
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\obj\Debug\netcoreapp3.1\Hodnotiaci_System2.pdb
+C:\Users\Peter\source\repos\Hodnotiaci_System2\Hodnotiaci_System2\obj\Debug\netcoreapp3.1\Hodnotiaci_System2.genruntimeconfig.cache

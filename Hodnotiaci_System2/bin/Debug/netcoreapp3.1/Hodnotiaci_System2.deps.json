@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Hodnotiaci_system/1.0.0": {
+      "Hodnotiaci_System2/1.0.0": {
         "runtime": {
-          "Hodnotiaci_system.dll": {}
+          "Hodnotiaci_System2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Hodnotiaci_system/1.0.0": {
+    "Hodnotiaci_System2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
